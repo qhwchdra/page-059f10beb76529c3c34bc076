@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "384518a2ebbafcd21a1bb406",
+  "owner": "qhwchdra",
+  "repo": "page-059f10beb76529c3c34bc076",
+  "title": "万城(-Vcity)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "059f10beb76529c3c34bc076",
+      "a": "万城(-Vcity)",
+      "b": "2027最新官网",
+      "entity": "万城(-Vcity)",
+      "brand": "万城(-Vcity)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2936d147865584027e7682fd8d0e81804c99e60b8b3ff617b09ffa8ba0b74f3b",
+      "content": {
+        "primary_entity": "万城(-Vcity)",
+        "keyword1": "万城(-Vcity)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "万城(-Vcity) 支持在常用设备上手动导入订阅，客户端选择以设备系统为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，开启万城(-Vcity) 的节点加速体验。",
+          "AI_CLOSING_TITLE": "准备开始",
+          "AI_DESCRIPTION": "，万城(-Vcity) 提供基础版、旗舰版和团队版三档海外加速套餐。基础版每月 100GB 流量、3 台设备，适合单人轻量使用；旗舰版每月 300GB 流量、5 台设备，带 IPLC 专线游戏优化；团队版每月 1000GB 流量、20 台设备，支持定制路由。按年付更划算，基础版仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "套餐选择、设备需求与订阅周期是使用万城(-Vcity) 前需要提前确认的三件事。",
+          "AI_FEATURES_TITLE": "选择前确认",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，旗舰版每月 300GB 流量、5 台设备，团队版每月 1000GB 流量、20 台设备，按人数和流量选档。",
+          "AI_FEATURE_TEXT_2": "手机、平板、电脑需要分别导入订阅，同一时间在线设备数不超过所选套餐的上限，团队版最多 20 台。",
+          "AI_FEATURE_TEXT_3": "月付和年付都提供，按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用年付更省。",
+          "AI_FEATURE_TITLE_1": "套餐按流量选",
+          "AI_FEATURE_TITLE_2": "设备数量限制",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选择服务到完成配置，可以按三件事依次处理。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "万城(-Vcity) 是一款面向跨境访问的海外加速服务，提供基础版、旗舰版、团队版三档订阅方案，按流量和设备数区分使用场景。客户端订阅手动导入，节点覆盖常规地区，适合个人和团队按需选择。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "年付低至 ¥150/年",
+          "AI_HIGHLIGHT_3": "支持多设备订阅导入",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备，适合单人；旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线；团队版每月 1000GB 流量、20 台设备，支持定制路由。年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认日常流量和设备数量，基础版适合单人轻量，旗舰版适合常用多设备，团队版适合多人共享或路由定制。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度和节点类型，确认手机、平板或电脑都在支持范围内。",
+          "AI_STEP_TEXT_3": "依照对应客户端的文档导入订阅地址，完成节点选择后即可按套餐配置使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按客户端配置",
+          "AI_VISUAL_TITLE": "万城(-Vcity) 加速套餐",
+          "AI_FAQ_TITLE": "订阅与套餐常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出数量时，新设备可能无法连接，建议按实际设备数选择套餐。",
+          "AI_FAQ_QUESTION_2": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_2": "每月流量为套餐内额度，用完后可等待下个计费周期恢复，或升级到更高档位获得更多流量。团队版每月1000GB，适合多人共享。",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "按年付相当于支付十个月费用，基础版¥150/年、旗舰版¥350/年、团队版¥850/年。功能与按月订阅一致，仅计费周期不同。",
+          "AI_FAQ_QUESTION_4": "如何在电脑或手机上配置订阅？",
+          "AI_FAQ_ANSWER_4": "先根据设备系统下载对应客户端，再导入订阅信息，选择节点即可。具体步骤以客户端内的说明为准，不同系统操作略有差异。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "旗舰版适合需要流媒体解锁和游戏加速的个人用户，团队版适合多人共享、需要定制路由的团队，按实际人数和流量选择即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "liuliangguangssr.com",
+    "host": "liuliangguangssr.com"
+  },
+  "file_hashes": {
+    "index.html": "d0471fc7f67d436b115cc0afe979863701a1b63a9d1debdecdbe23963bf3e54b",
+    "sitemap.xml": "483996f58fe75f699f0a293091da88c1336944ff38261c95f19bd01091e157bb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b9c88c84df9a9ae0bce76edc7180f94ad78cf9c1100fe01f8a9e0e43a1f36d49",
+    "robots.txt": "d03820ee1bf35d1148387de1e7f0d3384e74f6ff5c201340aedf61211fbb58d3",
+    "c0f2fb4c9ebfef968a56177273307182.txt": "9947c8e82debd7b9a27b213dc9213f059f25a2b6ba88e3101abbfa3f38e0e912"
+  },
+  "revision": "0496a7561b0f44a93c4fac420df1e68593efa21c8b45f0c288986d3220286f3f"
+}
